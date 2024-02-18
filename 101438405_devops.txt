@@ -1,0 +1,3 @@
+Understanding and using version control systems (e.g. Git) to manage and track changes in code.
+we learned about deploying software like Travis CI
+Software development and IT operations can be made more efficient with the help of better collaboration, process automation, and culturally sensitive learning in COMP 2156.

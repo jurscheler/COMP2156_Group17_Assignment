@@ -1,0 +1,3 @@
+in the COMP2156 course we learned that Devops is a combination of Software Development and Information technology operation
+Devops brings together development and operations teams so there are fewer redundacies in software development process
+known buzz words we learned in Devops class are scrum, waterfall, scrum master, agile, sprint, sdlc

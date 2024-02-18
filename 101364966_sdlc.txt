@@ -1,0 +1,4 @@
+sdlc stands for software development life cycle
+sdlc is "a process for planning, creating, testing, and deploying an information system" 
+sdlc also "enables the production of high-quality, low-cost software, in the shortest possible production time"
+sdlc is a proccess of phases

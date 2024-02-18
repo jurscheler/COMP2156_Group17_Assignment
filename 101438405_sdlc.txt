@@ -1,1 +1,3 @@
 Learning DevOps is indispensable for software engineers due to its pivotal role in streamlining the software development lifecycle. DevOps practices integrate development and operations, fostering collaboration and efficiency.
+DevOps speeds feedback and development iterations. This lets developers deliver features and updates faster and more often. 
+Using testing, validation, verification, security, performance, availability, scalability, and resilience throughout the software development process, DevOps improves product quality and reliability.

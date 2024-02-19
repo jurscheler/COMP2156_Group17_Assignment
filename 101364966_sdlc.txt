@@ -3,3 +3,6 @@ sdlc is "a process for planning, creating, testing, and deploying an information
 sdlc also "enables the production of high-quality, low-cost software, in the shortest possible production time"
 sdlc is a proccess of phases
 Increased visibility of the development process for all stakeholders involved
+Efficient estimation, planning, and scheduling
+Improved risk management and cost estimation
+Systematic software delivery and better customer satisfaction

@@ -3,3 +3,6 @@ Devops brings together development and operations teams so there are fewer redun
 known buzz words we learned in Devops class are scrum, waterfall, scrum master, agile, sprint, sdlc
 COMP2156 we learned how to pull repo from github to your local machine
 COMP2156 course we learned how make a pull request from Github
+Devops is is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver 
+applications and services at high velocity:
+ evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
